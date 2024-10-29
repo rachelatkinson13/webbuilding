@@ -1,0 +1,63 @@
+
+/*
+  brightred: #FF3C1B
+  purple: #CE1BF5
+  orange: #F36317
+  dark red: #9B0000
+  black: #000000 
+*/
+
+body {
+	background-color: #000000;
+	padding: 0 24px 36px 24px;
+}
+
+a {
+	color: #CE1BF5;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #FF3C1B;
+}
+
+h1{
+	color: #FF3C1B;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2, h3, h4, h5 {
+	color: #FF3C1B;
+	text-align: center;
+}
+
+
+p.picture {
+	text-align: center;
+}
+
+p.pic {
+	text-align: center;
+}
+
+p.picture2{
+	text-align: center;
+}
+
+p, li, table {
+	font-size: 20px;
+	color: #F36317;
+}
+
+th, td {
+	border: #9B0000 solid 8px;
+	padding: 8px;
+}
+
+table {
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	color: #F36317;
+}
